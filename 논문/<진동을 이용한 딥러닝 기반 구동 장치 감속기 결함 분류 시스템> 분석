@@ -41,7 +41,11 @@ https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE08757667
                          
                          input 데이터는 구동장치에서 발생한 진동을 각각 시간파형(RAW), 주파수파형(FFT), Spectogram, STFT로 변환하여 딥러닝 학습 진행
                          
-                         
+                        
+                        궁금점:
+                        input 데이터의 진동을 왜 시간파형(RAW), 주파수파형(FFT), Spectogram, STFT로 구분하는가?
+                       
+                        
                          
        4) Experiments - 감속기의 진동을 이용하여 결함 유형별로 이상 여부 판단하는 시스템 구현  -> 이게 큰 틀인듯하다
                         제안한 시스템의 성능을 검증하기 위해 input data를 4가지 유형으로 구분하여 전처리함
@@ -55,4 +59,16 @@ https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE08757667
                         데이터셋은 각 유형별 3000개씩 총 15000개
                         
                         
+                        궁금점:
+                        input 데이터를 시간파형(RAW), 주파수파형(FFT), Spectogram, STFT로 구분한거에 따라서 정확도가 달라짐 왜 일까?
+                        CNN와 변환한 데이터를 접목시켰을때 정확도가 높아지는 데이터가 있는 가?
+                        아니면 진동에 특성화된 전처리 방법이 있나? 
+                        
+                        
+       5) 결론 - 총 4개의 CNN 모델 구현
+                 정상, 1/2, 1개의 기어 특징점이 모호하여 3000개의 데이터로 정확한 구별을 도출하지 못함
+                 하지만 기어 2개 마모, 크랙 3개의 유형은 99% 수렴 정확도 
+                        
+                        
+
 
