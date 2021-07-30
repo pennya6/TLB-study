@@ -30,8 +30,14 @@ https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE08757667
                                                   
                  
                  CNN이 왜 진동 환경에 유연하게 대처하는가? 
+                 -> 신경망의 층을 통과할수록 공간적 정보를 추출하기 때문에 시간-주파수 특성 분석에 용이함
                  
                  그렇다면 대부분의 딥러닝 진동 연구는 CNN을 사용하는가?
+                 -> 소음, 진동을 이용한 CNN기반 원동 구동 장치 고장 진단
+                    딥러닝을 활용한 카오스 진동 진단
+                    전이 학습과 진동 신호를 이용한 설비 고장 진단 및 분석
+                    딥러닝, 소음진동분야에도 유용한가? - 건전성 예측 밀 관리 분야 
+                    
                  
                  
        2) 서론 - 산업현장 기계들은 고장예방을 위해 정기적 예방정비 실시 
@@ -43,6 +49,8 @@ https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE08757667
                  
                  궁금점: 
                  PHM의 문제점?
+                 -> PHM은 운영중 설비의 건전성 상태를 실시간으로 모니터링함
+                    고장여부 진단과 고장까지의 시간을 미리 예측하는 기술
                  
                  
        
@@ -59,7 +67,12 @@ https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE08757667
                         
                         궁금점:
                         input 데이터의 진동을 왜 시간파형(RAW), 주파수파형(FFT), Spectogram, STFT로 구분하는가?
-                       
+                        -> FFT( 노속 푸리에르 변환 : Fast Fourier transform ) : 주기성과 대칭성을 이용하여 이산 푸리에 변환과 역변환을 빠르게 수행하는 알고리즘
+                          
+                          Spectogram : 신호데이터의 전처리 방법인 단시간푸리에변환(short time fourier transform), 웨이블릿 변환(wavelet transform)을
+                                        통해 원신호의 주파수 대역과 시간 변화를 시각적으로 파악 할수 있는 스펙트로그램(spectrogram) 
+                           
+                           STFT( 오디오 단시간 푸리에 변환) 
                         
                          
        4) Experiments - 감속기의 진동을 이용하여 결함 유형별로 이상 여부 판단하는 시스템 구현  -> 이게 큰 틀인듯하다
@@ -77,8 +90,12 @@ https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE08757667
                         
                         궁금점:
                         input 데이터를 시간파형(RAW), 주파수파형(FFT), Spectogram, STFT로 구분한거에 따라서 정확도가 달라짐 왜 일까?
+                        
                         CNN와 변환한 데이터를 접목시켰을때 정확도가 높아지는 데이터가 있는 가?
+                        
                         아니면 진동에 특성화된 전처리 방법이 있나? 
+                        -> 진동환경에서 주로 스펙트로그램을 사용
+                        
                         
                         
                         
