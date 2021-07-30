@@ -6,7 +6,9 @@
 https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE08757667
 
 논문을 정한 이유 : 진동을 이용하여 딥러닝 기반 분류 시스템을 예측했다는 점에서 추후에 저희가 진행할 프로젝트와 연관성을 얻을 수 있다고 고려
-                  또한 머신러닝이 아닌 딥러닝 기반 예측이라는 점에서 정하게 됨
+                   또한 머신러닝이 아닌 딥러닝 기반 예측이라는 점에서 정하게 됨
+                  
+                  
                   
 분석 : 
        1) 요약 - 구동장치의 진동에서 특정 데이터를 추출하고 인공신경망에 학습하여 구동 장치의 결함을 분류하는 시스템을 구현함
@@ -15,9 +17,20 @@ https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE08757667
                  새로운 환경 적응 성능향상에 대하여 우수한 결과를 얻음
                  
                  
+                 
                  궁금점:
                  DNN vs CNN 차이점?
-                 CNN이 왜 진동 환경에 유연하게 대처하는가?
+                 -> CNN ( 합성곱신경망 : Convolution Neural Network ) : 데이터의 특징을 추출하여 특징들의 패턴을 파악하는 구조
+                                                                       Convolution과정과 Pooling 과정을 통해 진행
+                                                                       Convolution Layer와 Pooling Layer를 복합적으로 구성하여 알고리즘 구성
+                   
+                    DNN ( 심층신경망 : Deep Neural Network ) : 모델 내 은닉층을 많이 늘려서 학습의 결과를 향상시키는 방법
+                                                               은닉층을 2개이상 지닌 학습 방법
+                                                               DNN을 응용하여 CNN 발전
+                                                  
+                 
+                 CNN이 왜 진동 환경에 유연하게 대처하는가? 
+                 
                  그렇다면 대부분의 딥러닝 진동 연구는 CNN을 사용하는가?
                  
                  
@@ -25,6 +38,7 @@ https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE08757667
                  기계의 불필요한 중단과 부품교체로 인한 비용손실 발생
                  건정선 관리 기술(PHM)은 많은 문제점이 있음
                  근래 인공지능을 이용한 기계 고장 에측의 필요성 대두
+                 
                  
                  
                  궁금점: 
@@ -40,7 +54,8 @@ https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE08757667
                          STEP 3 - 웹서버에서 구동장치의 실시간 상태 확인 
                          
                          input 데이터는 구동장치에서 발생한 진동을 각각 시간파형(RAW), 주파수파형(FFT), Spectogram, STFT로 변환하여 딥러닝 학습 진행
-                         
+                 
+                        
                         
                         궁금점:
                         input 데이터의 진동을 왜 시간파형(RAW), 주파수파형(FFT), Spectogram, STFT로 구분하는가?
@@ -58,11 +73,13 @@ https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE08757667
                         딥러닝 입력 이미지 기준을 진동값 10000개로 설정
                         데이터셋은 각 유형별 3000개씩 총 15000개
                         
+                
                         
                         궁금점:
                         input 데이터를 시간파형(RAW), 주파수파형(FFT), Spectogram, STFT로 구분한거에 따라서 정확도가 달라짐 왜 일까?
                         CNN와 변환한 데이터를 접목시켰을때 정확도가 높아지는 데이터가 있는 가?
                         아니면 진동에 특성화된 전처리 방법이 있나? 
+                        
                         
                         
        5) 결론 - 총 4개의 CNN 모델 구현
