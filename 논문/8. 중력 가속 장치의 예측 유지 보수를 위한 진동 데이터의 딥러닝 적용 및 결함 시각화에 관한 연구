@@ -56,4 +56,21 @@
 
 [ 2.2 제안 방법 ]
 
+- 기존의 머신 러닝 방식
+   1) 사람에 의해 feature 선정
+   2) feature 차원 축소
+   3) SVM or MLP 적용
+   4) 시각화를 통한 원인분석
+   
+- 본 논문에서 제안된 방식
+   1) STFT or MFCC를 통해 전처리한 신호를 spectrogram으로 시각화 ( 1차원 -> 2차원 )
+   2) Transfer learning을 통해 2차원 기반 딥러닝 모델을 학습
+   3) CAM을 적용 -> 결함 점수를 계산 및 가시화 -> 등급별 원인 분석 가능
+   
+       <?> Transfer learning ( 전이학습 ) : 기존에 만들어진 모델과, 그 모델이 학습한 weights를 그대로 가져와 일부 layer를 추가하여 학습하는 방법
+       <?> CAM(Class Activation Map) : CNN 모델이 이미지를 분류할 때, 이미지의 어떤 부분을 보고 해당 class로 예측했는지 시각화하는 방법
+       
+       
+
+
 
