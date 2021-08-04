@@ -7,6 +7,11 @@
 
 
 * STFT?
+
+- 데이터에서 시간에 대해 구간을 짧게 나누어 나누어진 여러 구간의 데이터를 각각 푸리에 변환하는 방법.
+- 필요성 : 신호에 대해 자신이 알고 싶은 시점에서의 주파수 성분을 알 수 있음.
+- Window length, Overlap 등에 문제점 존재.
+
 - (참고1) https://m.blog.naver.com/vmv-tech/220936084562
 - (참고2) https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=vmv-tech&logNo=220941821088
 
