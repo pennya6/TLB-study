@@ -3,12 +3,12 @@
 -논문 저자 : SeonWoo Lee, HyeonTak Yu, HoJun Yang, InSeo Song, JungMu Choi, JaeHeung Yang, GangMin Lim, Kyu-Sung Kim, ByeongKeun Choi and JangWoo Kwon
 -URL : https://doi.org/10.3390/app11041564
 
--논문 선정 이유 : 진동 데이터 전처리에 대한 논문을 살펴봤을떄 중복적으로 많이 사용된 STFT의 사례를 알아보기 위해
+-논문 선정 이유 : 진동 데이터 전처리에 대한 논문을 살펴봤을때 중복적으로 많이 사용된 STFT의 사례를 알아보기 위해
 
 
 * STFT?
-- https://m.blog.naver.com/vmv-tech/220936084562
-- https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=vmv-tech&logNo=220941821088
+- (참고1) https://m.blog.naver.com/vmv-tech/220936084562
+- (참고2) https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=vmv-tech&logNo=220941821088
 
 
 [ 초록 ]
