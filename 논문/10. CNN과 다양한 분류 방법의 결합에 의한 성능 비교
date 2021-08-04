@@ -1,0 +1,16 @@
+분석한 이 : 김시연
+ 
+논문 제목 : CNN과 다양한 분류 방법의 결합에 의한 성능 비교
+논문 저자 : 한정수, 곽근창
+
+https://scienceon.kisti.re.kr/srch/selectPORSrchArticle.do?cn=NPAP12621975&dbt=NPAP
+
+택한 이유 : cnn+svm의 성능 평가가 좋다고 나와있기 때문에 
+
+1. 요약
+- 신경회로망(CNN : Convolutional Neural Network)과 다양한 분류기들의 결합을 통해 분류 성능을 비교한다.
+  일반적인 분류기로는 나이브베이즈, 트리, 판별 분석, 서포트 벡터 머신등이 존재한다.
+  각각의 성능을 비교해 볼 필요가 있다.
+  MNIST 데이터를 사용함
+  
+  
