@@ -61,7 +61,7 @@ URL :  https://doi.org/10.31818/JKNST.2021.03.4.1.14
  
   1) 각 축(x,y)에 대한 진동 변화량에 대한 분석
   
-     - 그림4.
+     - ![4](https://user-images.githubusercontent.com/63287424/128481238-5fb71006-e34d-446f-97e1-b3050166815c.PNG)
      - 각각의 축은 같은 변화율을 보임. 
        -> 같은 위치에 부착된 센서이기에 당연한 결과라고 판단됨.
      - 전반적으로 y축의 진동수치가 x축보다 0.1 mm/s 정도 크게 나타남 
@@ -72,20 +72,24 @@ URL :  https://doi.org/10.31818/JKNST.2021.03.4.1.14
  
   2) 진동 스칼라(root(x^2+y^2)) 변화에 대한 분석
   
-     - 그림5.
+     - ![5](https://user-images.githubusercontent.com/63287424/128481257-deb83673-561a-47ca-a77e-f3a4785c897f.PNG)
      - 빨간색 원 부분 -> 아래의 빨간색 상자 부분보다 순간적으로 높은 진동치를 보임.
                       -> 이는 디젤엔진 공기흡입 및 배터리 충전 중 전류 상승으로 인한 peak가 발생한 것으로 판단됨.
      
      - 다른 조건에서의 장비작동은 예지저비를 위한 잔존유효곡선 경험식 개발에 많은 오차를 줌
        -> 안정된 진동 수치를 보이는 아래 빨간색 상자 부분에 대한 분석을 선택적으로 실시함.
+       
+         ![6](https://user-images.githubusercontent.com/63287424/128481262-5660cb10-9228-4195-ac18-5337ae76666e.PNG)
+         
        -> 평균 진동 수치 0.364 mm/s , 선형식 근사를 통해 최종 경험식을 도출함. - 식(1)
+                                                                                ![식1](https://user-images.githubusercontent.com/63287424/128481270-0c616e4c-4fcb-465b-96c8-04755154f40e.PNG)
        -> 매월 평균 0.151 mm/s의 진동이 증가하고 있으며, 14개월 내 위험 진동치(2.11 mm/s)까지 도달 가능한 것으로 판단됨.
        -> 14개월 이내에 수리가 필요하다는 판단이 가능함.
   
   
   3) FFT(Fast Fourier Transform) 기법을 사용한 장비 상태 분석
 
-     - 그림6.
+     - ![8](https://user-images.githubusercontent.com/63287424/128481281-191fe891-8ad0-496b-a8d1-254c0303a184.PNG)
      - 1X : 장비 기본작동 진동 주파수(running speed)
      - 2X : 공진 주파수(harmonics)
      - BPF(blade pass frequency, 날개 통과주파수) : 팬에 공기가 통과할 때 발생하는 진동 주파수
@@ -101,10 +105,13 @@ URL :  https://doi.org/10.31818/JKNST.2021.03.4.1.14
   
   2) 진동 스칼라(root(x^2+y^2)) 변화에 대한 분석
   
+  - ![9](https://user-images.githubusercontent.com/63287424/128481286-18c34c0b-1a59-48a8-9a61-9047802a7dd9.PNG)
   - 선형식으로 근사하여 최종 경험식으로 도출함. - 식(2)
+                                                 ![식2](https://user-images.githubusercontent.com/63287424/128481291-aa54f403-1346-4839-8614-7f5027ef7747.PNG)
   
   3) FFT(Fast Fourier Transform) 기법을 사용한 장비 상태 분석
   
+  - ![1011](https://user-images.githubusercontent.com/63287424/128481301-679e71c7-7d85-4ef9-b52b-238e02fc8ac3.PNG)
   - 그림10 : 장비 안정화 이전
   - 그림11 : 장비 안정화 이후
   
