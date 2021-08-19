@@ -1,1 +1,54 @@
+출처
 https://danbi-ncsoft.github.io/study/2018/05/04/study-regression_model_summary.html
+
+
+
+오차항 = NOISE(잡읍)
+-> 회귀에서 오차항은 이론적으로
+-> 평균이 0이고, 일정한 정규 분포 따른다
+
+잔차(residual) = 회귀 모델의 예측치와 실측치 사이의 차이
+-> 잔차가 오차항의 조건을 충족하면 회귀 모델이 정확
+
+선형회귀 모델
+- 단순 선형 회귀 / 다중 선형 회귀
+- 많은 가정이 필요
+1. 독립변수와 종속변수는 선형관계
+->아니라면 Polynomial regression, Generalized Additive Model (GAM) 이 권장됨
+
+2. 오차항은 평균이 0
+
+3. 오차항의 확률분포는 일정한 정규 분포
+->아니라면 Generalized Linear Model (GLM)
+
+3. 오차항은 자기 상관성이 없다.
+->아니라면 Auto-regression
+
+4. 데이터에 아웃라이어가 없다.
+->아니라면 Robust regression, Quantile regression
+
+5. 독립변수와 오차항은 서로 독립이다.
+
+6. 독립변수 간에서는 서로 선형적으로 독립이다.
+->아니라면 "다중공신성"이 있다고 판단됨
+-> Ridge regression, Lasso regression, Elastic Net regression, Principal Component Regression (PCR), Partial Least Square (PLS) regression
+
+** 독립 변수와 종속 변수가 선형 관계가 아닌 경우 **
+1. 다항 회귀 (Polynomial regression)
+-> 독립변수인 x와 종속변수인 y의 관계가 선형이 아닌 곡선 형태
+
+2. 일반화 가법 모형 (GAM, Generalized Additive Model)
+-> 독립변수를 그대로 쓰는게 아니라 다른 함수(smooth function이라고 부름)의 선형 결합으로 표현하는 기법
+-> smooth fuction으로 비선형 함수를 사용함으로써 x와y간의 비선형관계를 표현
+
+** 오차항의 확률분포가 정규분포가 아닌 경우 **
+1. 일반화 선형 회귀 모델 (GLM, Generalized Linear Model)
+-> 종속변수(y)에 LINK 함수를 적용하는 회귀 모델링 기법
+-> LINK FUNCTION은 오차항의 확률 분포가 무엇인지에 따라 사용할 놈이 정해져 있음
+
+->  
+-> 종속변수가 0 또는 1이면 Logistic regression 이라고 부른다. 
+
+** 오차항에 자기 상관성이 있는 경우 **
+1. Autoregressive Model
+-> 시계열 데이터 같이 일정한 
