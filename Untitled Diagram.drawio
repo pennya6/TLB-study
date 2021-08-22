@@ -1,0 +1,172 @@
+<mxfile host="app.diagrams.net" modified="2021-08-22T14:17:59.515Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="pMEsPO14wNGioO41oIZ1" version="14.9.8" type="github">
+  <diagram id="BjRGo77VFSck1HBckzLr" name="Page-1">
+    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="mlBs7HLFrStk9Z69L1Kz-11" value="" style="group;" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="460" y="330" width="80" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="mlBs7HLFrStk9Z69L1Kz-2" value="이물질" style="swimlane;fillColor=#fff2cc;strokeColor=#d6b656;" parent="mlBs7HLFrStk9Z69L1Kz-11" vertex="1">
+          <mxGeometry width="80" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="mlBs7HLFrStk9Z69L1Kz-3" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: left; direction: ltr; unicode-bidi: embed; font-size: 11px;&quot;&gt;&lt;span style=&quot;font-size: 11px; font-family: &amp;quot;맑은 고딕&amp;quot;;&quot;&gt;&amp;gt;0.3μ&lt;/span&gt;&lt;span style=&quot;font-size: 11px; font-family: &amp;quot;맑은 고딕&amp;quot;;&quot;&gt;m&lt;/span&gt;&lt;span style=&quot;font-size: 11px; font-family: &amp;quot;맑은 고딕&amp;quot;;&quot;&gt;Δ&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=11;" parent="mlBs7HLFrStk9Z69L1Kz-2" vertex="1">
+          <mxGeometry x="10" y="40" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mlBs7HLFrStk9Z69L1Kz-4" value="&lt;p style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0in ; text-align: left ; direction: ltr ; unicode-bidi: embed ; font-size: 11px&quot;&gt;&lt;span style=&quot;font-size: 11px ; font-family: &amp;#34;맑은 고딕&amp;#34;&quot;&gt;&amp;gt;0.5μ&lt;/span&gt;&lt;span style=&quot;font-size: 11px ; font-family: &amp;#34;맑은 고딕&amp;#34;&quot;&gt;m&lt;/span&gt;&lt;span style=&quot;font-size: 11px ; font-family: &amp;#34;맑은 고딕&amp;#34;&quot;&gt;Δ&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=11;" parent="mlBs7HLFrStk9Z69L1Kz-2" vertex="1">
+          <mxGeometry x="10" y="60" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mlBs7HLFrStk9Z69L1Kz-5" value="&lt;p style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0in ; text-align: left ; direction: ltr ; unicode-bidi: embed ; font-size: 11px&quot;&gt;&lt;span style=&quot;font-size: 11px ; font-family: &amp;#34;맑은 고딕&amp;#34;&quot;&gt;&amp;gt;1.0μ&lt;/span&gt;&lt;span style=&quot;font-size: 11px ; font-family: &amp;#34;맑은 고딕&amp;#34;&quot;&gt;m&lt;/span&gt;&lt;span style=&quot;font-size: 11px ; font-family: &amp;#34;맑은 고딕&amp;#34;&quot;&gt;Δ&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=11;" parent="mlBs7HLFrStk9Z69L1Kz-11" vertex="1">
+          <mxGeometry x="10" y="80" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mlBs7HLFrStk9Z69L1Kz-6" value="&lt;p style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0in ; text-align: left ; direction: ltr ; unicode-bidi: embed ; font-size: 11px&quot;&gt;&lt;span style=&quot;font-size: 11px ; font-family: &amp;#34;맑은 고딕&amp;#34;&quot;&gt;&amp;gt;5.0μ&lt;/span&gt;&lt;span style=&quot;font-size: 11px ; font-family: &amp;#34;맑은 고딕&amp;#34;&quot;&gt;m&lt;/span&gt;&lt;span style=&quot;font-size: 11px ; font-family: &amp;#34;맑은 고딕&amp;#34;&quot;&gt;Δ&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=11;" parent="mlBs7HLFrStk9Z69L1Kz-11" vertex="1">
+          <mxGeometry x="10" y="100" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mlBs7HLFrStk9Z69L1Kz-7" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: left; direction: ltr; unicode-bidi: embed; font-size: 11px;&quot;&gt;&lt;span style=&quot;font-size: 11px; font-family: &amp;quot;맑은 고딕&amp;quot;;&quot;&gt;&amp;gt;0.3μ&lt;/span&gt;&lt;span style=&quot;font-size: 11px; font-family: &amp;quot;맑은 고딕&amp;quot;;&quot;&gt;m&lt;/span&gt;&lt;span style=&quot;font-size: 11px; font-family: &amp;quot;맑은 고딕&amp;quot;;&quot;&gt;Σ&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=11;" parent="mlBs7HLFrStk9Z69L1Kz-11" vertex="1">
+          <mxGeometry x="10" y="120" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mlBs7HLFrStk9Z69L1Kz-8" value="&lt;p style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0in ; text-align: left ; direction: ltr ; unicode-bidi: embed ; font-size: 11px&quot;&gt;&lt;span style=&quot;font-size: 11px ; font-family: &amp;#34;맑은 고딕&amp;#34;&quot;&gt;&amp;gt;0.5μ&lt;/span&gt;&lt;span style=&quot;font-size: 11px ; font-family: &amp;#34;맑은 고딕&amp;#34;&quot;&gt;m&lt;/span&gt;&lt;span style=&quot;font-size: 11px ; font-family: &amp;#34;맑은 고딕&amp;#34;&quot;&gt;Σ&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=11;" parent="mlBs7HLFrStk9Z69L1Kz-11" vertex="1">
+          <mxGeometry x="10" y="140" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mlBs7HLFrStk9Z69L1Kz-9" value="&lt;p style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0in ; text-align: left ; direction: ltr ; unicode-bidi: embed ; font-size: 11px&quot;&gt;&lt;span style=&quot;font-size: 11px ; font-family: &amp;#34;맑은 고딕&amp;#34;&quot;&gt;&amp;gt;1.0μ&lt;/span&gt;&lt;span style=&quot;font-size: 11px ; font-family: &amp;#34;맑은 고딕&amp;#34;&quot;&gt;m&lt;/span&gt;&lt;span style=&quot;font-size: 11px ; font-family: &amp;#34;맑은 고딕&amp;#34;&quot;&gt;Σ&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=11;" parent="mlBs7HLFrStk9Z69L1Kz-11" vertex="1">
+          <mxGeometry x="10" y="160" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mlBs7HLFrStk9Z69L1Kz-26" value="" style="group;" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="60" y="30" width="200" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="mlBs7HLFrStk9Z69L1Kz-12" value="AOI" style="swimlane;fontSize=11;fillColor=#f8cecc;strokeColor=#b85450;" parent="mlBs7HLFrStk9Z69L1Kz-26" vertex="1">
+          <mxGeometry width="200" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="mlBs7HLFrStk9Z69L1Kz-13" value="&lt;p style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0in ; text-align: left ; direction: ltr ; unicode-bidi: embed ; font-size: 11px&quot;&gt;&lt;font face=&quot;맑은 고딕&quot;&gt;Model&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=11;" parent="mlBs7HLFrStk9Z69L1Kz-12" vertex="1">
+          <mxGeometry x="75" y="28.888888888888886" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mlBs7HLFrStk9Z69L1Kz-14" value="&lt;p style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0in ; text-align: left ; direction: ltr ; unicode-bidi: embed ; font-size: 11px&quot;&gt;&lt;font face=&quot;맑은 고딕&quot;&gt;Order No&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=11;" parent="mlBs7HLFrStk9Z69L1Kz-12" vertex="1">
+          <mxGeometry x="75" y="48.148148148148145" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mlBs7HLFrStk9Z69L1Kz-15" value="&lt;font face=&quot;맑은 고딕&quot;&gt;검사일자&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=11;" parent="mlBs7HLFrStk9Z69L1Kz-12" vertex="1">
+          <mxGeometry x="75" y="67.4074074074074" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mlBs7HLFrStk9Z69L1Kz-16" value="&lt;font face=&quot;맑은 고딕&quot;&gt;검사수량&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=11;" parent="mlBs7HLFrStk9Z69L1Kz-12" vertex="1">
+          <mxGeometry x="75" y="86.66666666666666" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mlBs7HLFrStk9Z69L1Kz-19" value="&lt;font face=&quot;맑은 고딕&quot;&gt;슬리트수량&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=11;" parent="mlBs7HLFrStk9Z69L1Kz-12" vertex="1">
+          <mxGeometry x="65" y="144.4444444444444" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mlBs7HLFrStk9Z69L1Kz-17" value="&lt;font face=&quot;맑은 고딕&quot;&gt;총불량수량&lt;/font&gt;&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bfont%20face%3D%26quot%3B%EB%A7%91%EC%9D%80%20%EA%B3%A0%EB%94%95%26quot%3B%26gt%3B%EA%B2%80%EC%82%AC%EC%88%98%EB%9F%89%26lt%3B%2Ffont%26gt%3B%22%20style%3D%22text%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3Bresizable%3D0%3Bpoints%3D%5B%5D%3Bautosize%3D1%3BstrokeColor%3Dnone%3BfontSize%3D11%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22125%22%20y%3D%22370%22%20width%3D%2260%22%20height%3D%2220%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=11;" parent="mlBs7HLFrStk9Z69L1Kz-26" vertex="1">
+          <mxGeometry x="65" y="105.92592592592591" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mlBs7HLFrStk9Z69L1Kz-18" value="&lt;font face=&quot;맑은 고딕&quot;&gt;오픈수량&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=11;" parent="mlBs7HLFrStk9Z69L1Kz-26" vertex="1">
+          <mxGeometry x="70" y="125.18518518518516" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mlBs7HLFrStk9Z69L1Kz-20" value="&lt;font face=&quot;맑은 고딕&quot;&gt;오픈 PPM&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=11;" parent="mlBs7HLFrStk9Z69L1Kz-26" vertex="1">
+          <mxGeometry x="75" y="163.7037037037037" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mlBs7HLFrStk9Z69L1Kz-21" value="&lt;font face=&quot;맑은 고딕&quot;&gt;슬리트 PPM&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=11;" parent="mlBs7HLFrStk9Z69L1Kz-26" vertex="1">
+          <mxGeometry x="70" y="182.96296296296293" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mlBs7HLFrStk9Z69L1Kz-22" value="&lt;font face=&quot;맑은 고딕&quot;&gt;오픈+슬리트 PPM&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=11;" parent="mlBs7HLFrStk9Z69L1Kz-26" vertex="1">
+          <mxGeometry x="50" y="202.2222222222222" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mlBs7HLFrStk9Z69L1Kz-40" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="330" y="30" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="mlBs7HLFrStk9Z69L1Kz-27" value="노광일지" style="swimlane;fontSize=11;fillColor=#d5e8d4;strokeColor=#82b366;" parent="mlBs7HLFrStk9Z69L1Kz-40" vertex="1">
+          <mxGeometry width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="mlBs7HLFrStk9Z69L1Kz-32" value="&lt;font face=&quot;맑은 고딕&quot;&gt;노광호기&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=11;" parent="mlBs7HLFrStk9Z69L1Kz-27" vertex="1">
+          <mxGeometry x="65" y="90" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mlBs7HLFrStk9Z69L1Kz-34" value="&lt;font face=&quot;맑은 고딕&quot;&gt;Model&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=11;" parent="mlBs7HLFrStk9Z69L1Kz-27" vertex="1">
+          <mxGeometry x="70" y="110" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mlBs7HLFrStk9Z69L1Kz-31" value="&lt;font face=&quot;맑은 고딕&quot;&gt;작업종료&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=11;" parent="mlBs7HLFrStk9Z69L1Kz-27" vertex="1">
+          <mxGeometry x="65" y="70" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mlBs7HLFrStk9Z69L1Kz-30" value="&lt;font face=&quot;맑은 고딕&quot;&gt;작업시작&lt;/font&gt;&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bfont%20face%3D%26quot%3B%EB%A7%91%EC%9D%80%20%EA%B3%A0%EB%94%95%26quot%3B%26gt%3B%EC%9E%91%EC%97%85%EC%9D%BC%26lt%3B%2Ffont%26gt%3B%22%20style%3D%22text%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3Bresizable%3D0%3Bpoints%3D%5B%5D%3Bautosize%3D1%3BstrokeColor%3Dnone%3BfontSize%3D11%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22125%22%20y%3D%22600%22%20width%3D%2250%22%20height%3D%2220%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=11;" parent="mlBs7HLFrStk9Z69L1Kz-27" vertex="1">
+          <mxGeometry x="65" y="50" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mlBs7HLFrStk9Z69L1Kz-28" value="&lt;font face=&quot;맑은 고딕&quot;&gt;작업일&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=11;" parent="mlBs7HLFrStk9Z69L1Kz-27" vertex="1">
+          <mxGeometry x="70" y="30" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mlBs7HLFrStk9Z69L1Kz-35" value="&lt;font face=&quot;맑은 고딕&quot;&gt;Order No&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=11;" parent="mlBs7HLFrStk9Z69L1Kz-40" vertex="1">
+          <mxGeometry x="70" y="130" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mlBs7HLFrStk9Z69L1Kz-73" value="" style="group;" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="600" y="16" width="200" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="mlBs7HLFrStk9Z69L1Kz-55" value="AOI+노광일지+이물질" style="swimlane;fontSize=11;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="mlBs7HLFrStk9Z69L1Kz-73" vertex="1">
+          <mxGeometry width="200" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="mlBs7HLFrStk9Z69L1Kz-56" value="&lt;p style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0in ; text-align: left ; direction: ltr ; unicode-bidi: embed ; font-size: 11px&quot;&gt;&lt;font face=&quot;맑은 고딕&quot;&gt;Model&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=11;" parent="mlBs7HLFrStk9Z69L1Kz-55" vertex="1">
+          <mxGeometry x="75" y="109.99888888888893" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mlBs7HLFrStk9Z69L1Kz-57" value="&lt;p style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0in ; text-align: left ; direction: ltr ; unicode-bidi: embed ; font-size: 11px&quot;&gt;&lt;font face=&quot;맑은 고딕&quot;&gt;WorkDate&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=11;" parent="mlBs7HLFrStk9Z69L1Kz-55" vertex="1">
+          <mxGeometry x="65" y="29.998888888888928" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mlBs7HLFrStk9Z69L1Kz-58" value="&lt;p style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0in ; text-align: left ; direction: ltr ; unicode-bidi: embed ; font-size: 11px&quot;&gt;&lt;font face=&quot;맑은 고딕&quot;&gt;Start&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=11;" parent="mlBs7HLFrStk9Z69L1Kz-55" vertex="1">
+          <mxGeometry x="80" y="49.99888888888893" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mlBs7HLFrStk9Z69L1Kz-59" value="&lt;p style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0in ; text-align: left ; direction: ltr ; unicode-bidi: embed ; font-size: 11px&quot;&gt;&lt;font face=&quot;맑은 고딕&quot;&gt;Finish&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=11;" parent="mlBs7HLFrStk9Z69L1Kz-55" vertex="1">
+          <mxGeometry x="80" y="69.99888888888893" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mlBs7HLFrStk9Z69L1Kz-60" value="&lt;p style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0in ; text-align: left ; direction: ltr ; unicode-bidi: embed ; font-size: 11px&quot;&gt;&lt;font face=&quot;맑은 고딕&quot;&gt;No&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=11;" parent="mlBs7HLFrStk9Z69L1Kz-55" vertex="1">
+          <mxGeometry x="85" y="89.99888888888893" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mlBs7HLFrStk9Z69L1Kz-61" value="&lt;p style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0in ; text-align: left ; direction: ltr ; unicode-bidi: embed ; font-size: 11px&quot;&gt;&lt;font face=&quot;맑은 고딕&quot;&gt;OrderNo&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=11;" parent="mlBs7HLFrStk9Z69L1Kz-55" vertex="1">
+          <mxGeometry x="70" y="129.99888888888893" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mlBs7HLFrStk9Z69L1Kz-63" value="&lt;p style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0in ; text-align: left ; direction: ltr ; unicode-bidi: embed ; font-size: 11px&quot;&gt;&lt;font face=&quot;맑은 고딕&quot;&gt;OpenPPM&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=11;" parent="mlBs7HLFrStk9Z69L1Kz-55" vertex="1">
+          <mxGeometry x="65" y="169.99888888888893" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mlBs7HLFrStk9Z69L1Kz-64" value="&lt;p style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0in ; text-align: left ; direction: ltr ; unicode-bidi: embed ; font-size: 11px&quot;&gt;&lt;font face=&quot;맑은 고딕&quot;&gt;SlitPPM&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=11;" parent="mlBs7HLFrStk9Z69L1Kz-55" vertex="1">
+          <mxGeometry x="75" y="189.99888888888893" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mlBs7HLFrStk9Z69L1Kz-62" value="&lt;p style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0in ; text-align: left ; direction: ltr ; unicode-bidi: embed ; font-size: 11px&quot;&gt;&lt;font face=&quot;맑은 고딕&quot;&gt;ErrorPPM&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=11;" parent="mlBs7HLFrStk9Z69L1Kz-73" vertex="1">
+          <mxGeometry x="70" y="149.99888888888893" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mlBs7HLFrStk9Z69L1Kz-66" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: left; direction: ltr; unicode-bidi: embed; font-size: 11px;&quot;&gt;&lt;span style=&quot;font-size: 11px; font-family: &amp;quot;맑은 고딕&amp;quot;;&quot;&gt;&amp;gt;0.3μ&lt;/span&gt;&lt;span style=&quot;font-size: 11px; font-family: &amp;quot;맑은 고딕&amp;quot;;&quot;&gt;m&lt;/span&gt;&lt;span style=&quot;font-size: 11px; font-family: &amp;quot;맑은 고딕&amp;quot;;&quot;&gt;Δ&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=11;" parent="mlBs7HLFrStk9Z69L1Kz-73" vertex="1">
+          <mxGeometry x="70" y="210" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mlBs7HLFrStk9Z69L1Kz-67" value="&lt;p style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0in ; text-align: left ; direction: ltr ; unicode-bidi: embed ; font-size: 11px&quot;&gt;&lt;span style=&quot;font-size: 11px ; font-family: &amp;#34;맑은 고딕&amp;#34;&quot;&gt;&amp;gt;0.5μ&lt;/span&gt;&lt;span style=&quot;font-size: 11px ; font-family: &amp;#34;맑은 고딕&amp;#34;&quot;&gt;m&lt;/span&gt;&lt;span style=&quot;font-size: 11px ; font-family: &amp;#34;맑은 고딕&amp;#34;&quot;&gt;Δ&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=11;" parent="mlBs7HLFrStk9Z69L1Kz-73" vertex="1">
+          <mxGeometry x="70" y="230" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mlBs7HLFrStk9Z69L1Kz-68" value="&lt;p style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0in ; text-align: left ; direction: ltr ; unicode-bidi: embed ; font-size: 11px&quot;&gt;&lt;span style=&quot;font-size: 11px ; font-family: &amp;#34;맑은 고딕&amp;#34;&quot;&gt;&amp;gt;1.0μ&lt;/span&gt;&lt;span style=&quot;font-size: 11px ; font-family: &amp;#34;맑은 고딕&amp;#34;&quot;&gt;m&lt;/span&gt;&lt;span style=&quot;font-size: 11px ; font-family: &amp;#34;맑은 고딕&amp;#34;&quot;&gt;Δ&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=11;" parent="mlBs7HLFrStk9Z69L1Kz-73" vertex="1">
+          <mxGeometry x="70" y="250" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mlBs7HLFrStk9Z69L1Kz-69" value="&lt;p style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0in ; text-align: left ; direction: ltr ; unicode-bidi: embed ; font-size: 11px&quot;&gt;&lt;span style=&quot;font-size: 11px ; font-family: &amp;#34;맑은 고딕&amp;#34;&quot;&gt;&amp;gt;5.0μ&lt;/span&gt;&lt;span style=&quot;font-size: 11px ; font-family: &amp;#34;맑은 고딕&amp;#34;&quot;&gt;m&lt;/span&gt;&lt;span style=&quot;font-size: 11px ; font-family: &amp;#34;맑은 고딕&amp;#34;&quot;&gt;Δ&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=11;" parent="mlBs7HLFrStk9Z69L1Kz-73" vertex="1">
+          <mxGeometry x="70" y="270" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mlBs7HLFrStk9Z69L1Kz-70" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: left; direction: ltr; unicode-bidi: embed; font-size: 11px;&quot;&gt;&lt;span style=&quot;font-size: 11px; font-family: &amp;quot;맑은 고딕&amp;quot;;&quot;&gt;&amp;gt;0.3μ&lt;/span&gt;&lt;span style=&quot;font-size: 11px; font-family: &amp;quot;맑은 고딕&amp;quot;;&quot;&gt;m&lt;/span&gt;&lt;span style=&quot;font-size: 11px; font-family: &amp;quot;맑은 고딕&amp;quot;;&quot;&gt;Σ&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=11;" parent="mlBs7HLFrStk9Z69L1Kz-73" vertex="1">
+          <mxGeometry x="70" y="290" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mlBs7HLFrStk9Z69L1Kz-71" value="&lt;p style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0in ; text-align: left ; direction: ltr ; unicode-bidi: embed ; font-size: 11px&quot;&gt;&lt;span style=&quot;font-size: 11px ; font-family: &amp;#34;맑은 고딕&amp;#34;&quot;&gt;&amp;gt;0.5μ&lt;/span&gt;&lt;span style=&quot;font-size: 11px ; font-family: &amp;#34;맑은 고딕&amp;#34;&quot;&gt;m&lt;/span&gt;&lt;span style=&quot;font-size: 11px ; font-family: &amp;#34;맑은 고딕&amp;#34;&quot;&gt;Σ&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=11;" parent="mlBs7HLFrStk9Z69L1Kz-73" vertex="1">
+          <mxGeometry x="70" y="310" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mlBs7HLFrStk9Z69L1Kz-72" value="&lt;p style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0in ; text-align: left ; direction: ltr ; unicode-bidi: embed ; font-size: 11px&quot;&gt;&lt;span style=&quot;font-size: 11px ; font-family: &amp;#34;맑은 고딕&amp;#34;&quot;&gt;&amp;gt;1.0μ&lt;/span&gt;&lt;span style=&quot;font-size: 11px ; font-family: &amp;#34;맑은 고딕&amp;#34;&quot;&gt;m&lt;/span&gt;&lt;span style=&quot;font-size: 11px ; font-family: &amp;#34;맑은 고딕&amp;#34;&quot;&gt;Σ&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=11;" parent="mlBs7HLFrStk9Z69L1Kz-73" vertex="1">
+          <mxGeometry x="70" y="330" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mlBs7HLFrStk9Z69L1Kz-77" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERmandOne;startArrow=ERmandOne;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="mlBs7HLFrStk9Z69L1Kz-12" edge="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="410" y="330" as="sourcePoint" />
+            <mxPoint x="330" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mlBs7HLFrStk9Z69L1Kz-78" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERmany;startArrow=ERmany;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="mlBs7HLFrStk9Z69L1Kz-2" target="mlBs7HLFrStk9Z69L1Kz-55" edge="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="410" y="430" as="sourcePoint" />
+            <mxPoint x="510" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mlBs7HLFrStk9Z69L1Kz-79" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=3;size=20;indent=5;fontSize=11;fillColor=none;strokeColor=#7EA6E0;" parent="1" vertex="1">
+          <mxGeometry x="30" y="16" width="530" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="mlBs7HLFrStk9Z69L1Kz-81" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERmandOne;startArrow=ERmandOne;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1.005;exitY=0.49;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="mlBs7HLFrStk9Z69L1Kz-79" target="mlBs7HLFrStk9Z69L1Kz-55" edge="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="410" y="330" as="sourcePoint" />
+            <mxPoint x="510" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
